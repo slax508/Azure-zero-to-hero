@@ -3,10 +3,10 @@
 ### Configure workload identity
 
 ```
-export SUBSCRIPTION_ID=fe4a1fdb-6a1c-4a6d-a6b0-dbb12f6a00f8
+export SUBSCRIPTION_ID=2aa31e87-a272-4d0c-b4f7-5bec4d0a724e
 export RESOURCE_GROUP=keyvault-demo
 export UAMI=azurekeyvaultsecretsprovider-keyvault-demo-cluster
-export KEYVAULT_NAME=aks-demo-abhi
+export KEYVAULT_NAME=laxman-key
 export CLUSTER_NAME=keyvault-demo-cluster
 
 az account set --subscription $SUBSCRIPTION_ID
